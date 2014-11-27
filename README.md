@@ -1,0 +1,4 @@
+PHPSmartyPage
+=============
+
+PHP Smarty Page
