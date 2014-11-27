@@ -47,7 +47,7 @@ class Page
         //只有一页以下
         if($this->result['page_count']<=1)
         {
-            $this->result['page_list'] = 0;
+            $this->result['page_list'] = array();
         }
         else //一页以上
         {
